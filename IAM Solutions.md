@@ -1,6 +1,6 @@
 # 🔐 Enhancing Cybersecurity with Custom IAM Solutions
 
-A project showcasing **custom IAM solutions** designed to streamline user lifecycle management and strengthen access control mechanisms for enterprise-scale operations.
+I provided **custom IAM solutions** designed to streamline user lifecycle management and strengthen access control mechanisms for enterprise-scale operations.
 
 ---
 
