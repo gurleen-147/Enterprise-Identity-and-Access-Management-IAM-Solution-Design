@@ -4,7 +4,7 @@ TechCorp operates in over 100 countries and employs more than 150,000 people. As
 
 ---
 
-## 🧩 Enhancing User Lifecycle Management
+##  Enhancing User Lifecycle Management
 
 **Challenges:**
 - Managing user access during onboarding and offboarding processes.
@@ -17,7 +17,7 @@ TechCorp operates in over 100 countries and employs more than 150,000 people. As
 
 ---
 
-## 🔒 Strengthening Access Control Mechanisms
+##  Strengthening Access Control Mechanisms
 
 **Challenges:**
 - Protecting critical data and systems from unauthorized access.
@@ -29,7 +29,7 @@ TechCorp operates in over 100 countries and employs more than 150,000 people. As
 
 ---
 
-## 🎯 IAM Solution Design Goals
+##  IAM Solution Design Goals
 
 As an IAM developer, your task is to design solutions that directly address the following focus areas:
 1. **Enhancing User Lifecycle Management**
@@ -41,7 +41,7 @@ Your solutions should align with TechCorp's broader business objectives of:
 
 ---
 
-## 🛠️ Deliverables for IAM Solution Design
+##  Deliverables for IAM Solution Design
 
 Your detailed IAM design document should include:
 
