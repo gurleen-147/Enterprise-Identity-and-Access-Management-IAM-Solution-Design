@@ -11,12 +11,12 @@ A project showcasing **custom IAM solutions** designed to streamline user lifecy
 **🎯 Objective:**  
 To optimize and automate user onboarding, access modifications, and offboarding processes.
 
-** Solution:**  
+**Solution:**  
 - Implement an **automated user provisioning system** integrated with the HR database.  
 - Ensure **real-time updates** to user access permissions based on employment status.  
 - Provide a **self-service portal** for employees to request access changes, routed through **manager approval workflows**.
 
-** Technology:**  
+**Technology:**  
 - Use **SailPoint** for automated provisioning and de-provisioning.  
 - Integrate with HR systems via **API connectors** for accurate and synchronized user data.
 
@@ -28,11 +28,11 @@ To optimize and automate user onboarding, access modifications, and offboarding 
 **🎯 Objective:**  
 To strengthen access controls and minimize the risk of unauthorized access.
 
-** Solution:**  
+**Solution:**  
 - Implement a **Role-Based Access Control (RBAC)** system with roles defined by job responsibilities.  
 - Conduct **regular access reviews and certifications** to ensure alignment with roles.
 
-** Technology:**  
+**Technology:**  
 - Use **Oracle Identity Manager** for role-based permission assignment.  
 - Integrate with **Active Directory** for centralized management and authentication.
 
