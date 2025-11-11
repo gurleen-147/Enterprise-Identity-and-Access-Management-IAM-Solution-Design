@@ -47,7 +47,7 @@ To strengthen access controls and minimize the risk of unauthorized access.
 
 ---
 
-## 🎯 Alignment with Business Objectives
+##  Alignment with Business Objectives
 
 -  **Operational Efficiency:** Streamlined user lifecycle management reduces delays in access provisioning for new employees.  
 -  **Security & Compliance:** Strengthened access controls minimize unauthorized access and support compliance objectives.  
